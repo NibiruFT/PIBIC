@@ -2,6 +2,9 @@
 
 # Simulação de Monte Carlo
 
+https://user-images.githubusercontent.com/93540956/189542975-8fc6dc96-650f-437e-93ed-518580b81136.mp4
+
+
 #### Resumo
 
 Desde a invenção do computador os cientistas tem mostrado interesse em usá-lo para
